@@ -1,16 +1,18 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🫀
 
-<!--
-**Viterbo63/Viterbo63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Daniel Ribeiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na [alura](wwww.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo pelo 📧
+
+  coronel@prof.educacao.sp.gov.br
+  
+  coronel@professor.educacao.sp.gov.br
+
+
+
+  ![](https://i.pinimg.com/originals/6a/6b/4d/6a6b4dace0250e6d5ed83ce7b4f4568b.gif)
